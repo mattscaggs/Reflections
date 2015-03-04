@@ -3,3 +3,9 @@ When would you want to use a remote repository rather than keeping all your work
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 3/4 1243p so you can continue working on various iterations of a new features, while others operate independenly on other stuff in the same code 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+3/4 
+fork is a way to use someone else project as a starting point, or contribute to another project
+forking only exists on github, so you have to clone it to play w/ a copy of the code locally
+branches are the different paths from the master, allowing you to create and test new featuers w/out messing w/ stable code
