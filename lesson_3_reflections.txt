@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 3/4 1237pE when collaborating with multiple people right away, esp. if working in shifts to rapidly produce a project
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+3/4 1243p so you can continue working on various iterations of a new features, while others operate independenly on other stuff in the same code 
