@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 fork is a way to use someone else project as a starting point, or contribute to another project
 forking only exists on github, so you have to clone it to play w/ a copy of the code locally
 branches are the different paths from the master, allowing you to create and test new featuers w/out messing w/ stable code
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+3/5 idk, really no clue - best guess is if a contributor really screws the pooch and messes up something w/ the version on github
